@@ -25,7 +25,7 @@ function Home() {
         </p>
       </div>
       <div>
-        <Link className="text-decoration-none bg-dark p-4 text-light fs-3" to="/">Read about me</Link>
+        <Link className="text-decoration-none bg-dark p-4 text-light fs-3" to="/about">Read about me</Link>
       </div>
     </div>
   );
