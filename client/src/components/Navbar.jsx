@@ -41,7 +41,7 @@ function Navbar() {
           </div>
         </div>
         <div
-          class="d-flex d-md-none offcanvas offcanvas-end"
+          class="d-flex d-md-none offcanvas offcanvas-end w-60"
           data-bs-scroll="true"
           tabindex="-1"
           id="offcanvasWithBothOptions"
