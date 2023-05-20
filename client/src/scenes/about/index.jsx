@@ -9,23 +9,23 @@ function About() {
         <div className="w-100 w-md-50 me-5">
           <h1 className="fw-lighter fs-2 text-muted mb-4">About Me</h1>
           <div className="text-muted fs-5">
-            <div className="mb-4 lh-lg">
+            <div className="mb-4 lh-lg fw-light">
               Hello there! My name is Johnson Addo Ameyaw, and I'm a passionate
               front-end developer with a strong drive to excel in the field of
               web development. I have a deep love for teaching others and
               sharing my knowledge.
             </div>
-            <div className="mb-4 lh-lg">
+            <div className="mb-4 lh-lg fw-light">
               I thrive on challenges and constantly seek opportunities to expand
               my skill set and explore emerging technologies. I aim to solve
               problems efficiently and create engaging user experiences.
             </div>
-            <div className="mb-4 lh-lg">
+            <div className="mb-4 lh-lg fw-light">
               In addition to my technical pursuits, I believe in maintaining a
               well-rounded lifestyle. When I'm not immersed in lines of code, I
               enjoy playing FIFA, listening to music, and watching movies.
             </div>
-            <div className="mb-4 lh-lg">
+            <div className="mb-4 lh-lg fw-light">
               Believing in collaboration and diverse perspectives, I am excited
               to contribute to the evolving world of web development, leveraging
               my skills for meaningful solutions.
