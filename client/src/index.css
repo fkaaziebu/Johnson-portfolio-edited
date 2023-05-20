@@ -13,3 +13,28 @@
   width: 80px;
   background-color: rgba(0, 0, 0, 1);
 }
+
+.line-div {
+  height: 5px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.bg-cream {
+  background-color: rgba(241, 246, 245, 0.5);
+}
+
+.list-style-type-circle {
+  list-style-type: "";
+}
+
+.profile {
+  width: 150px;
+  height: 150px;
+}
+
+@media screen and (max-width: 768px) {
+  .w-md-50 {
+    width: 50%;
+  }
+}
