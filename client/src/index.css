@@ -17,7 +17,7 @@
 .line-div {
   height: 5px;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 .bg-cream {
@@ -33,9 +33,45 @@
   height: 150px;
 }
 
+.w-15 {
+  width: 70px;
+}
+
+.bg-lighter {
+  background-color: #f1f6f9;
+  color: #9ea0a3;
+}
+
+.python-box {
+  background-color: #c5cbce;
+}
+
+.python {
+  width: 70%;
+  height: 5px;
+  background-color: rgb(156, 153, 153);
+}
+
+.javascript {
+  width: 65%;
+  height: 5px;
+  background-color: rgb(156, 153, 153);
+}
+
+.html {
+  width: 65%;
+  height: 5px;
+  background-color: rgb(156, 153, 153);
+}
+
+.wordpress {
+  width: 50%;
+  height: 5px;
+  background-color: rgb(156, 153, 153);
+}
+
 @media screen and (max-width: 768px) {
   .w-md-50 {
     width: 50%;
   }
 }
-

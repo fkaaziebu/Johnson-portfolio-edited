@@ -58,7 +58,11 @@ function Navbar() {
           </div>
           <div class="offcanvas-body">
             <div className="d-flex justify-content-center mb-2">
-              <img className="img-fluid img-thumbnail profile" src={ProfileImage} alt="Profile" />
+              <img
+                className="img-fluid img-thumbnail profile"
+                src={ProfileImage}
+                alt="Profile"
+              />
             </div>
             <Link
               className="nav-link active p-2 mx-2 fs-3 text-center"
